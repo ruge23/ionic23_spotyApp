@@ -1,0 +1,1 @@
+# ionic23_spotyApp
